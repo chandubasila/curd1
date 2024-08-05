@@ -6,10 +6,12 @@ import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule} from '@angular/common/http'
 import { CurdService } from './curd.service';
+import { ChanduComponent } from './chandu/chandu.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ChanduComponent
   ],
   imports: [
     BrowserModule,
