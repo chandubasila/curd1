@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "chandu",
+      "age": "31",
+      "education": "mca",
+      "id": "fee3"
+    },
+    {
+      "name": "zero",
+      "age": "to",
+      "education": "numberonehero",
+      "id": "f7b8"
+    },
+    {
+      "name": "chandu",
+      "age": "30",
+      "education": "mca",
+      "id": "213a"
+    }
+  ]
+}
